@@ -1,0 +1,28 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Desarrollar API",
+            "employee": "Roberto Jacome",
+            "description": "Crear una API REST para gestión de tareas",
+            "status": "pendiente",
+            "creation_date": "2024-08-15T10:00:00Z"
+        },
+        {
+            "id": 2,
+            "title": "Diseñar base de datos",
+            "employee": "Carlos Silva",
+            "description": "Diseñar la base de datos para la aplicación",
+            "status": "en progreso",
+            "creation_date": "2024-08-15T11:00:00Z"
+        },
+        {
+            "id": 3,
+            "title": "Implementar frontend",
+            "employee": "María López",
+            "description": "Desarrollar la interfaz de usuario para la aplicación",
+            "status": "completado",
+            "creation_date": "2024-08-15T12:00:00Z"
+        }
+    ]
+}
